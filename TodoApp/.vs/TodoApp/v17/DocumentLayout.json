@@ -1,0 +1,245 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.Net\\TodoApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A0B7E329-0DD4-43AA-A7B1-AA1E34114161}|TodoApp\\TodoApp.csproj|d:\\.net\\todoapp\\todoapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0B7E329-0DD4-43AA-A7B1-AA1E34114161}|TodoApp\\TodoApp.csproj|solutionrelative:todoapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0B7E329-0DD4-43AA-A7B1-AA1E34114161}|TodoApp\\TodoApp.csproj|D:\\.Net\\TodoApp\\todoapp\\todoapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A0B7E329-0DD4-43AA-A7B1-AA1E34114161}|TodoApp\\TodoApp.csproj|solutionrelative:todoapp\\todoapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0B7E329-0DD4-43AA-A7B1-AA1E34114161}|TodoApp\\TodoApp.csproj|D:\\.Net\\TodoApp\\todoapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A0B7E329-0DD4-43AA-A7B1-AA1E34114161}|TodoApp\\TodoApp.csproj|solutionrelative:todoapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0B7E329-0DD4-43AA-A7B1-AA1E34114161}|TodoApp\\TodoApp.csproj|D:\\.Net\\TodoApp\\todoapp\\controllers\\mytaskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0B7E329-0DD4-43AA-A7B1-AA1E34114161}|TodoApp\\TodoApp.csproj|solutionrelative:todoapp\\controllers\\mytaskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD3E0D56-C947-4446-A735-B15A22057AEC}|DataAccess\\DataAccess.csproj|D:\\.Net\\TodoApp\\dataaccess\\dao\\taskdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD3E0D56-C947-4446-A735-B15A22057AEC}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\dao\\taskdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BC5BE7B-48DF-4F6C-8AD3-6966638B6A95}|BusinessObject\\BusinessObject.csproj|D:\\.Net\\TodoApp\\businessobject\\mytask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BC5BE7B-48DF-4F6C-8AD3-6966638B6A95}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\mytask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BC5BE7B-48DF-4F6C-8AD3-6966638B6A95}|BusinessObject\\BusinessObject.csproj|D:\\.Net\\TodoApp\\businessobject\\businessobject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1BC5BE7B-48DF-4F6C-8AD3-6966638B6A95}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\businessobject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0B7E329-0DD4-43AA-A7B1-AA1E34114161}|TodoApp\\TodoApp.csproj|D:\\.Net\\TodoApp\\todoapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A0B7E329-0DD4-43AA-A7B1-AA1E34114161}|TodoApp\\TodoApp.csproj|solutionrelative:todoapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD3E0D56-C947-4446-A735-B15A22057AEC}|DataAccess\\DataAccess.csproj|D:\\.Net\\TodoApp\\dataaccess\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD3E0D56-C947-4446-A735-B15A22057AEC}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD3E0D56-C947-4446-A735-B15A22057AEC}|DataAccess\\DataAccess.csproj|D:\\.Net\\TodoApp\\dataaccess\\context\\taskcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD3E0D56-C947-4446-A735-B15A22057AEC}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\context\\taskcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BC5BE7B-48DF-4F6C-8AD3-6966638B6A95}|BusinessObject\\BusinessObject.csproj|D:\\.Net\\TodoApp\\businessobject\\path\\sharedpath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BC5BE7B-48DF-4F6C-8AD3-6966638B6A95}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\path\\sharedpath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD3E0D56-C947-4446-A735-B15A22057AEC}|DataAccess\\DataAccess.csproj|D:\\.Net\\TodoApp\\dataaccess\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BD3E0D56-C947-4446-A735-B15A22057AEC}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD3E0D56-C947-4446-A735-B15A22057AEC}|DataAccess\\DataAccess.csproj|D:\\.Net\\TodoApp\\dataaccess\\repository\\mytaskrepository\\mytaskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD3E0D56-C947-4446-A735-B15A22057AEC}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\repository\\mytaskrepository\\mytaskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TodoApp",
+              "DocumentMoniker": "D:\\.Net\\TodoApp\\TodoApp\\TodoApp.csproj",
+              "RelativeDocumentMoniker": "TodoApp\\TodoApp.csproj",
+              "ToolTip": "D:\\.Net\\TodoApp\\TodoApp\\TodoApp.csproj",
+              "RelativeToolTip": "TodoApp\\TodoApp.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-05T01:28:57.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SharedPath.cs",
+              "DocumentMoniker": "D:\\.Net\\TodoApp\\BusinessObject\\Path\\SharedPath.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\Path\\SharedPath.cs",
+              "ToolTip": "D:\\.Net\\TodoApp\\BusinessObject\\Path\\SharedPath.cs",
+              "RelativeToolTip": "BusinessObject\\Path\\SharedPath.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T16:57:28.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\.Net\\TodoApp\\DataAccess\\appsettings.json",
+              "RelativeDocumentMoniker": "DataAccess\\appsettings.json",
+              "ToolTip": "D:\\.Net\\TodoApp\\DataAccess\\appsettings.json",
+              "RelativeToolTip": "DataAccess\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-23T16:48:45.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TaskDAO.cs",
+              "DocumentMoniker": "D:\\.Net\\TodoApp\\DataAccess\\DAO\\TaskDAO.cs",
+              "RelativeDocumentMoniker": "DataAccess\\DAO\\TaskDAO.cs",
+              "ToolTip": "D:\\.Net\\TodoApp\\DataAccess\\DAO\\TaskDAO.cs",
+              "RelativeToolTip": "DataAccess\\DAO\\TaskDAO.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAIAxwE0AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T15:46:43.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MyTaskRepository.cs",
+              "DocumentMoniker": "D:\\.Net\\TodoApp\\DataAccess\\Repository\\MyTaskRepository\\MyTaskRepository.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Repository\\MyTaskRepository\\MyTaskRepository.cs",
+              "ToolTip": "D:\\.Net\\TodoApp\\DataAccess\\Repository\\MyTaskRepository\\MyTaskRepository.cs",
+              "RelativeToolTip": "DataAccess\\Repository\\MyTaskRepository\\MyTaskRepository.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAArwBcAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T16:00:58.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TaskContext.cs",
+              "DocumentMoniker": "D:\\.Net\\TodoApp\\DataAccess\\Context\\TaskContext.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Context\\TaskContext.cs",
+              "ToolTip": "D:\\.Net\\TodoApp\\DataAccess\\Context\\TaskContext.cs",
+              "RelativeToolTip": "DataAccess\\Context\\TaskContext.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAywBgAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T15:28:41.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.Net\\TodoApp\\DataAccess\\Program.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Program.cs",
+              "ToolTip": "D:\\.Net\\TodoApp\\DataAccess\\Program.cs",
+              "RelativeToolTip": "DataAccess\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T15:18:41.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\.Net\\TodoApp\\TodoApp\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "TodoApp\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\.Net\\TodoApp\\TodoApp\\Properties\\launchSettings.json",
+              "RelativeToolTip": "TodoApp\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABwAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-23T15:11:19.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MyTaskController.cs",
+              "DocumentMoniker": "D:\\.Net\\TodoApp\\TodoApp\\Controllers\\MyTaskController.cs",
+              "RelativeDocumentMoniker": "TodoApp\\Controllers\\MyTaskController.cs",
+              "ToolTip": "D:\\.Net\\TodoApp\\TodoApp\\Controllers\\MyTaskController.cs",
+              "RelativeToolTip": "TodoApp\\Controllers\\MyTaskController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwCsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T15:09:10.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.Net\\TodoApp\\TodoApp\\Program.cs",
+              "RelativeDocumentMoniker": "TodoApp\\Program.cs",
+              "ToolTip": "D:\\.Net\\TodoApp\\TodoApp\\Program.cs",
+              "RelativeToolTip": "TodoApp\\Program.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAABUAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T15:57:38.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\.Net\\TodoApp\\TodoApp\\appsettings.json",
+              "RelativeDocumentMoniker": "TodoApp\\appsettings.json",
+              "ToolTip": "D:\\.Net\\TodoApp\\TodoApp\\appsettings.json",
+              "RelativeToolTip": "TodoApp\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-23T15:11:13.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BusinessObject.csproj",
+              "DocumentMoniker": "D:\\.Net\\TodoApp\\BusinessObject\\BusinessObject.csproj",
+              "RelativeDocumentMoniker": "BusinessObject\\BusinessObject.csproj",
+              "ToolTip": "D:\\.Net\\TodoApp\\BusinessObject\\BusinessObject.csproj",
+              "RelativeToolTip": "BusinessObject\\BusinessObject.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-24T17:36:09.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MyTask.cs",
+              "DocumentMoniker": "D:\\.Net\\TodoApp\\BusinessObject\\MyTask.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\MyTask.cs",
+              "ToolTip": "D:\\.Net\\TodoApp\\BusinessObject\\MyTask.cs",
+              "RelativeToolTip": "BusinessObject\\MyTask.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T17:36:12.199Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
